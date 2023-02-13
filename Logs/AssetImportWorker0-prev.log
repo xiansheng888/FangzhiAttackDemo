@@ -1,0 +1,417 @@
+Using pre-set license
+Built from '2021.3/china_unity/release' branch; Version is '2021.3.3f1c1 (d43514f36ab8) revision 13907220'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Education' Language: 'zh' Physical Memory: 16312 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+G:\Program Files\Unity 2021.3.3f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/Project/xiaoyu demo/demo  - DMWziyuan
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56005
+Successfully changed project path to: H:/Project/xiaoyu demo/demo  - DMWziyuan
+H:/Project/xiaoyu demo/demo  - DMWziyuan
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 91.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.3f1c1 (d43514f36ab8)
+[Subsystems] Discovering subsystems at path G:/Program Files/Unity 2021.3.3f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Project/xiaoyu demo/demo  - DMWziyuan/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'G:/Program Files/Unity 2021.3.3f1c1/Editor/Data/Managed'
+Mono path[1] = 'G:/Program Files/Unity 2021.3.3f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'G:/Program Files/Unity 2021.3.3f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Program Files/Unity 2021.3.3f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003990 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 73.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Domain Reload Profiling:
+	ReloadAssembly (820ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (575ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (147ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (313ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (74ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1390ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1085ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (565ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (275ms)
+				ProcessInitializeOnLoadMethodAttributes (188ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2568 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 62 unused Assets / (298.1 KB). Loaded Objects now: 3018.
+Memory consumption went from 149.8 MB to 149.5 MB.
+Total: 11.105500 ms (FindLiveObjects: 0.404200 ms CreateObjectMapping: 0.354100 ms MarkObjects: 9.929500 ms  DeleteObjects: 0.415700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 16152.913704 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0000.png
+  artifactKey: Guid(f97002c97991ed8478cb0d60a0ada90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0000.png using Guid(f97002c97991ed8478cb0d60a0ada90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532c8f72c314cecf7e75b02ccfbe5e7e') in 0.114796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.540931 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0001.png
+  artifactKey: Guid(fdfa555fc582f8d40b0506e0e26c5e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0001.png using Guid(fdfa555fc582f8d40b0506e0e26c5e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89c3637011b2b60e1355a0c40fd31b6') in 0.074999 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011221 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1429ms)
+		BeginReloadAssembly (197ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1064ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (274ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (541ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (178ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (266.0 KB). Loaded Objects now: 3027.
+Memory consumption went from 141.8 MB to 141.5 MB.
+Total: 9.502800 ms (FindLiveObjects: 0.346200 ms CreateObjectMapping: 0.267100 ms MarkObjects: 8.635600 ms  DeleteObjects: 0.251300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 38.194580 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0000.controller
+  artifactKey: Guid(d5b087b56b903894392d20050cb0d5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0000.controller using Guid(d5b087b56b903894392d20050cb0d5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e004c9fefc44203899ce2d34a0825f') in 0.041387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.431383 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0006.png
+  artifactKey: Guid(a94d912d32dc7aa4cbebc7e206d6307b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0006.png using Guid(a94d912d32dc7aa4cbebc7e206d6307b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936db1e2ee8c315284c611eec06bf70c') in 0.060726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.571787 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0003.png
+  artifactKey: Guid(ac251fedd16f99f418c7c73ee484557a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0003.png using Guid(ac251fedd16f99f418c7c73ee484557a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0e89d51c9ae523d90f92ad08581dff') in 0.022789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.377663 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0009.png
+  artifactKey: Guid(a84b2730b75d43342b72f02592dd11de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0009.png using Guid(a84b2730b75d43342b72f02592dd11de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b2516e3f808ac5dec4e5db7feeabe1') in 0.020724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.334849 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0013.png
+  artifactKey: Guid(3d19a5a679f338b4cb61b81d98db4001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0013.png using Guid(3d19a5a679f338b4cb61b81d98db4001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42b5b412f9808af71193ed61096f036') in 0.022379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.936881 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0002.png
+  artifactKey: Guid(d57c80d57b6943b4da5cf3b0877a858c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0002.png using Guid(d57c80d57b6943b4da5cf3b0877a858c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66d6f932d4dec062fa73d7cdaab889b') in 0.021367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.845382 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/toutoukan0000.png
+  artifactKey: Guid(f97002c97991ed8478cb0d60a0ada90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/toutoukan0000.png using Guid(f97002c97991ed8478cb0d60a0ada90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ab4e3ba660af44dffd42711f4f083f') in 0.017763 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.537 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1538ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1230ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (261ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (740ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (371ms)
+				ProcessInitializeOnLoadMethodAttributes (233ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (266.0 KB). Loaded Objects now: 3030.
+Memory consumption went from 141.8 MB to 141.5 MB.
+Total: 18.810100 ms (FindLiveObjects: 0.454700 ms CreateObjectMapping: 0.198100 ms MarkObjects: 17.820300 ms  DeleteObjects: 0.335400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 26.261850 seconds.
+  path: Assets/del/风乾元时间帧/偷偷看/111.anim
+  artifactKey: Guid(8ee07fa0ba19de24495c8a2dad0eb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/偷偷看/111.anim using Guid(8ee07fa0ba19de24495c8a2dad0eb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be46d004ef8a37680c1a5bac0435036c') in 0.024563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.644529 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang0000.png
+  artifactKey: Guid(7d73a446bd2bc5542903cd8fc7fb6c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang0000.png using Guid(7d73a446bd2bc5542903cd8fc7fb6c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab7ee53cb6794bcde3bbe9f93e45b78') in 0.060149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.164748 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang0005.png
+  artifactKey: Guid(3526e13a8486b0e4b931717fb35879e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang0005.png using Guid(3526e13a8486b0e4b931717fb35879e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a6fe09319266b384c05d6d1910d9d6') in 0.023942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.216025 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang0004.png
+  artifactKey: Guid(75f8e9bb34bd36b4684f68e16c9f77d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang0004.png using Guid(75f8e9bb34bd36b4684f68e16c9f77d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f78fc895da8c9fce3523dab185de9c6') in 0.014586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.778014 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang0004.png
+  artifactKey: Guid(75f8e9bb34bd36b4684f68e16c9f77d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang0004.png using Guid(75f8e9bb34bd36b4684f68e16c9f77d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d1f42e2983e157d7a07d324f3d1c22') in 0.045804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.537959 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang0000.controller
+  artifactKey: Guid(6582cce4df0461d459345abc9d0b65bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang0000.controller using Guid(6582cce4df0461d459345abc9d0b65bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bca4ed4282ec710c597e775a340c503') in 0.004203 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.161 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2162ms)
+		BeginReloadAssembly (240ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (1740ms)
+			LoadAssemblies (151ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (401ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (964ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (424ms)
+				ProcessInitializeOnLoadMethodAttributes (358ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 20.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (266.1 KB). Loaded Objects now: 3033.
+Memory consumption went from 141.8 MB to 141.6 MB.
+Total: 15.496300 ms (FindLiveObjects: 0.600900 ms CreateObjectMapping: 0.309800 ms MarkObjects: 14.030100 ms  DeleteObjects: 0.552000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 61.924237 seconds.
+  path: Assets/del/风乾元时间帧/凄凉/qiliang.anim
+  artifactKey: Guid(f93042ba0f1b46c41944130ba786e1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/del/风乾元时间帧/凄凉/qiliang.anim using Guid(f93042ba0f1b46c41944130ba786e1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733dda360fc9d68ab51cae1cf3f689a8') in 0.039772 seconds 

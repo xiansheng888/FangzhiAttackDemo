@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{53b42a31-9329-e267-28d5-7c0861e8ad15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTween.Modules", "DOTween.Modules.csproj", "{8a6f53cd-c838-aeb3-690c-8639e9ede9fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{465acba1-50c9-f8b6-cf37-62148b44e506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53b42a31-9329-e267-28d5-7c0861e8ad15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53b42a31-9329-e267-28d5-7c0861e8ad15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8a6f53cd-c838-aeb3-690c-8639e9ede9fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8a6f53cd-c838-aeb3-690c-8639e9ede9fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465acba1-50c9-f8b6-cf37-62148b44e506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465acba1-50c9-f8b6-cf37-62148b44e506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

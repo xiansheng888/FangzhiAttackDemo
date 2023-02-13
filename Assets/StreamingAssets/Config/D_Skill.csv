@@ -1,0 +1,26 @@
+技能表,技能表现,技能时长 -1为长效--技能生命周期,打击计算时间点,技能CD,击中特效,UI表现,攻击力,持续打击间隔,给攻击目标加buff的概率,目标的buffid,给自己加buff的概率,给自己加的buffid,"攻击类型,对应Boject里的type",群体范围伤害,耗蓝,准星资源,子弹的溅射范围,,,,,
+id,show_path,time,att_timestamp,cd,att_effect,show_icon,att_value,att_interval,add_prob,add_id,add_prob_self,add_id_self,target_type,scope,mp_cost,skill_aim,scope_bullet,,,,,
+1001,skill_1001,1,-1,0,efsk_a_meifeisi_attack_bullet_hit,,50,-1,,,,,1|2|3,,0,,,,,召唤 单体,我方魔王,20
+1002,skill_1002,1.4,0.5,0,efsk_b_yueselangren_skill_hit,,40,-1,,,,,1|3,1,0,,,,,近战 肉/输 群,狼人,4
+1003,skill_1003,2,-1,0,efsk_b_djfeiting_attack_hit,,200,-1,,,,,1|2|3,,0,,,,,中 打塔,飞艇,1.5
+1004,skill_1004,0.6,-1,0,efsk_a_zhimingnvjue_attack_hit,,25,-1,,,,,1|2|3,,0,,,,,远程 召唤 群,蜘蛛女,0.6
+1005,skill_1005,0.8,-1,0,efsk_b_dijingwang_attack_hit,,50,-1,,,,,1|3,,0,,,,,近战 单体,地精王,0.8
+1006,skill_1006,0.6,0.5,0,efsk_b_fuergan_attack_hit,,65,-1,,,,,1|3,,0,,,,,近战 群,女巫,0.6
+1007,skill_1007,1.2,-1,0,efsk_a_meifeisi_attack_bullet_hit,,70,-1,,,,,1|2|3,,0,,,,,单体 治疗,奶妈,0.6
+1008,skill_1008,1.4,-1,0,efsk_a_lamasuzhiwang_attack_bullet_hit,,5,-1,,,,,1|3,,0,,,,,近战 单体,鸟人,2
+1009,skill_1009,2.4,0.5,0,efsk_b_juyanling_attack_hit,,80,-1,,,,,1|3,,0,,,,,纯肉 单体 分裂,石头人,10
+2001,skill_1001,0,-1,0,efsk_a_meifeisi_attack_bullet_hit,,0,-1,,,,,1|3,,0,,,,,召唤 单体,敌方水晶,20
+2002,skill_2002,0.2,-1,0,efsk_com_emnujian_attack_hit,,15,-1,,,,,1|2|3,,0,,,,,超远 单体 地面,敌方箭塔,6
+2003,skill_2003,2,-1,0,,,60,-1,,,,,1|3,,0,,8,,,远程 群 地面,投石车,4
+2004,skill_2004,1,-1,0,efsk_com_emnujian_skill01_hit,,40,-1,,,,,1|3,,0,,,,,近战 闪电链 对空,敌方闪电链,4
+2005,skill_2005,-1,-1,0,efsk_com_tylj_attack_hit3,,75,0.5,,,,,1|2|3,,0,,,,,中距离 单体 对空,敌方地狱塔,6
+9001,skill_9001,5,-1,2,,jn_03,0,-1,100,1003,,,1|2|3,,0,ef_aoe_skill04,7.5,,,毒药,每秒持续造成固定伤害 持续x秒,
+9002,skill_9002,5,-1,2,,jn_05,0,-1,100,1009,,,1|2|3,,0,ef_aoe_skill03,7.5,,,冰冻,范围内所有敌人和英雄 被冰冻 无法移动+攻击,
+9003,skill_9003,5,-1,2,,jn_06,200,-1,,,,,1|2|3,,0,ef_aoe_skill01,7.5,,,陨石,范围内直接固定伤害,
+9004,skill_9004,5,-1,2,,jn_01,0,-1,,,100|100,1102|1103,1|2|3,,0,ef_aoe_skill02,7.5,,,狂暴,施法范围内的所有英雄攻速提升 伤害提升,
+9005,skill_9999,5,-1,2,,jn_02,0,-1,,,100,1105,1|2|3,,0,ef_aoe_skill01,7.5,,,隐形,范围内英雄不会被敌方察觉并攻击 表现上变成虚影   ,
+9006,skill_9006,5,-1,2,,jn_04,0,-1,,,100,1104,1|2|3,,0,ef_aoe_skill05,7.5,,,回血,范围内英雄 每秒恢复x生命,
+9007,skill_9007,5,-1,2,efsk_com_bianzhizhecx_buff,jn_02,10,-1,,,100,1007,1|2|3,,0,ef_aoe_skill01,7.5,,,衰弱,范围内 被降低攻速,
+9008,skill_9999,5,-1,2,efsk_a_lamasuzhiwang_wait,jn_02,10,-1,,,100,1106,1|2|3,,0,ef_aoe_skill01,,,,稻草人,吸引敌方火力 持续x秒;已锁定目标不变,
+9009,skill_9999,5,-1,2,efsk_a_lamasuzhiwang_wait,jn_02,10,-1,,,100,1107,1|2|3,,0,ef_aoe_skill01,,,,集结,我方英雄朝目标点集结-最后以最近英雄依次坐标挨着就停下 ,
+3001,skill_3001,0.6,-1,0,efsk_a_zhimingnvjue_attack_hit,,5,-1,,,,,1|3,,0,,,,,远程 召唤 群,蜘蛛女,0.6

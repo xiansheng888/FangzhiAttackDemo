@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 9f2915c9b84efc84ba01fd6bf88c8618
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Finger
+    100008: Bip001 L Forearm
+    100010: Bip001 L Hand
+    100012: Bip001 L UpperArm
+    100014: Bip001 Neck
+    100016: Bip001 Pelvis
+    100018: Bip001 R Finger
+    100020: Bip001 R Forearm
+    100022: Bip001 R Hand
+    100024: Bip001 R UpperArm
+    100026: Bip001 Spine01
+    100028: Bip001 Spine02
+    100030: Bone017
+    100032: Bone018
+    100034: Bone020
+    100036: Bone022
+    100038: Bone029
+    100040: Bone030
+    100042: Bone031
+    100044: Bone032
+    100046: dipan001
+    100048: jianbu001
+    100050: jianbu002
+    100052: Root
+    100054: weapon001
+    100056: weapon002
+    100058: weapon003
+    100060: weapon004
+    100062: weapon005
+    100064: weapon006
+    100066: weapon007
+    100068: weapon008
+    100070: weapon009
+    100072: weapon010
+    100074: weapon011
+    100076: weapon012
+    100078: b_fuergan
+    100080: b_fuergan_weapon01
+    100082: Box001
+    100084: Box002
+    100086: Circle001
+    100088: Circle002
+    100090: Circle003
+    100092: NGon001
+    100094: NGon002
+    100096: NGon003
+    100098: NGon004
+    100100: NGon005
+    100102: NGon006
+    100104: NGon007
+    100106: NGon008
+    100108: NGon009
+    100110: NGon011
+    100112: NGon012
+    100114: NGon013
+    100116: NGon014
+    100118: NGon016
+    100120: NGon017
+    100122: NGon020
+    100124: Particle View 001
+    100126: Particle View 001 1
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Finger
+    400008: Bip001 L Forearm
+    400010: Bip001 L Hand
+    400012: Bip001 L UpperArm
+    400014: Bip001 Neck
+    400016: Bip001 Pelvis
+    400018: Bip001 R Finger
+    400020: Bip001 R Forearm
+    400022: Bip001 R Hand
+    400024: Bip001 R UpperArm
+    400026: Bip001 Spine01
+    400028: Bip001 Spine02
+    400030: Bone017
+    400032: Bone018
+    400034: Bone020
+    400036: Bone022
+    400038: Bone029
+    400040: Bone030
+    400042: Bone031
+    400044: Bone032
+    400046: dipan001
+    400048: jianbu001
+    400050: jianbu002
+    400052: Root
+    400054: weapon001
+    400056: weapon002
+    400058: weapon003
+    400060: weapon004
+    400062: weapon005
+    400064: weapon006
+    400066: weapon007
+    400068: weapon008
+    400070: weapon009
+    400072: weapon010
+    400074: weapon011
+    400076: weapon012
+    400078: b_fuergan
+    400080: b_fuergan_weapon01
+    400082: Box001
+    400084: Box002
+    400086: Circle001
+    400088: Circle002
+    400090: Circle003
+    400092: NGon001
+    400094: NGon002
+    400096: NGon003
+    400098: NGon004
+    400100: NGon005
+    400102: NGon006
+    400104: NGon007
+    400106: NGon008
+    400108: NGon009
+    400110: NGon011
+    400112: NGon012
+    400114: NGon013
+    400116: NGon014
+    400118: NGon016
+    400120: NGon017
+    400122: NGon020
+    400124: Particle View 001
+    400126: Particle View 001 1
+    2100000: 'Material #30'
+    2100002: 'Material #29'
+    2100004: No Name
+    2300000: b_fuergan
+    2300002: b_fuergan_weapon01
+    2300004: Box001
+    2300006: Box002
+    3300000: b_fuergan
+    3300002: b_fuergan_weapon01
+    3300004: Box001
+    3300006: Box002
+    4300000: b_fuergan_weapon01
+    4300002: b_fuergan
+    4300004: Box001
+    4300006: Box002
+    7400000: Idle
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

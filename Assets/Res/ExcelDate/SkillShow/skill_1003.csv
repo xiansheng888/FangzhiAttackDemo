@@ -1,0 +1,5 @@
+行为id,类型 1动画2特效3子弹4音效5位移 6连线 7弹球,触发时间,持续时间 100就是持续到技能结束,扩展参数1 动画名 特效名 子弹名,"参数2 子弹速度;如果是特效,则为挂点位置",参数3 飞行轨迹 1直线2抛物线;特效的话是坐标,参数4 旋转,参数5 缩放,参数6 是否跟随模型
+id,type,trigger_time,life_time,param1 ,param2 ,param3,param4,param5,param6
+1,1,0,10,Attack,,,,,
+2,3,0.4,10,efsk_b_djfeiting_attack_bullet,40,,,,
+3,4,0.4,10,attack_feiting,1,,,,

@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 98b03783171416d4aa84ba692e1e3dea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001 Pelvis
+    100004: Bip001 Spine1
+    100006: Bip001 Spine2
+    100008: Bip001 Spine3
+    100010: Bone013
+    100012: Bone013(mirrored)
+    100014: Bone014
+    100016: Bone015
+    100018: Bone016
+    100020: Bone017
+    100022: jianci001
+    100024: jianci002
+    100026: Pifeng001
+    100028: Pifeng002
+    100030: Pifeng003
+    100032: Pifeng004
+    100034: Pifeng005
+    100036: pifeng006
+    100038: Root
+    100040: stone001
+    100042: stone002
+    100044: stone003
+    100046: stone004
+    100048: stone005
+    100050: stone006
+    100052: stone007
+    100054: stone008
+    100056: stone009
+    100058: stone010
+    100060: stone011
+    100062: stone012
+    100064: stone013
+    100066: stone014
+    100068: stone015
+    100070: stone016
+    100072: stone017
+    100074: stone018
+    100076: weapon001
+    100078: Xiong001
+    100080: Bone018
+    100082: Bone019
+    100084: Bone020
+    100086: Bone021
+    100088: Bone022
+    100090: Bone023
+    100092: Bone024
+    100094: Bone025
+    100096: Bone026
+    100098: Bone027
+    100100: Bone028
+    100102: Bone029
+    100104: Bone030
+    100106: Bone031
+    100108: Bone033
+    100110: Bone032
+    400000: //RootNode
+    400002: Bip001 Pelvis
+    400004: Bip001 Spine1
+    400006: Bip001 Spine2
+    400008: Bip001 Spine3
+    400010: Bone013
+    400012: Bone013(mirrored)
+    400014: Bone014
+    400016: Bone015
+    400018: Bone016
+    400020: Bone017
+    400022: jianci001
+    400024: jianci002
+    400026: Pifeng001
+    400028: Pifeng002
+    400030: Pifeng003
+    400032: Pifeng004
+    400034: Pifeng005
+    400036: pifeng006
+    400038: Root
+    400040: stone001
+    400042: stone002
+    400044: stone003
+    400046: stone004
+    400048: stone005
+    400050: stone006
+    400052: stone007
+    400054: stone008
+    400056: stone009
+    400058: stone010
+    400060: stone011
+    400062: stone012
+    400064: stone013
+    400066: stone014
+    400068: stone015
+    400070: stone016
+    400072: stone017
+    400074: stone018
+    400076: weapon001
+    400078: Xiong001
+    400080: Bone018
+    400082: Bone019
+    400084: Bone020
+    400086: Bone021
+    400088: Bone022
+    400090: Bone023
+    400092: Bone024
+    400094: Bone025
+    400096: Bone026
+    400098: Bone027
+    400100: Bone028
+    400102: Bone029
+    400104: Bone030
+    400106: Bone031
+    400108: Bone033
+    400110: Bone032
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

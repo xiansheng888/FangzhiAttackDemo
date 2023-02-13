@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 103eddf73adff3b4aa07b188086b82d3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001 Pelvis
+    100004: Bip001 Spine1
+    100006: Bip001 Spine2
+    100008: Bip001 Spine3
+    100010: Bone013
+    100012: Bone013(mirrored)
+    100014: Bone014
+    100016: Bone015
+    100018: Bone016
+    100020: jianci001
+    100022: jianci002
+    100024: Pifeng001
+    100026: Pifeng002
+    100028: Pifeng002 1
+    100030: Pifeng003
+    100032: Pifeng004
+    100034: pifeng008
+    100036: Root
+    100038: stone001
+    100040: stone002
+    100042: stone003
+    100044: stone004
+    100046: stone005
+    100048: stone006
+    100050: stone007
+    100052: stone008
+    100054: stone009
+    100056: stone010
+    100058: stone011
+    100060: stone012
+    100062: stone013
+    100064: stone014
+    100066: stone015
+    100068: stone016
+    100070: stone017
+    100072: stone018
+    100074: weapon001
+    100076: Xiong001
+    100078: Pifeng005
+    100080: Bone017
+    100082: pifeng006
+    100084: Bone018
+    100086: Bone019
+    100088: Bone020
+    100090: Bone021
+    100092: Bone022
+    100094: Bone023
+    100096: Bone024
+    100098: Bone025
+    100100: Bone026
+    100102: Bone027
+    100104: Bone028
+    100106: Bone029
+    100108: Bone030
+    100110: Bone031
+    100112: Bone032
+    100114: Bone033
+    400000: //RootNode
+    400002: Bip001 Pelvis
+    400004: Bip001 Spine1
+    400006: Bip001 Spine2
+    400008: Bip001 Spine3
+    400010: Bone013
+    400012: Bone013(mirrored)
+    400014: Bone014
+    400016: Bone015
+    400018: Bone016
+    400020: jianci001
+    400022: jianci002
+    400024: Pifeng001
+    400026: Pifeng002
+    400028: Pifeng002 1
+    400030: Pifeng003
+    400032: Pifeng004
+    400034: pifeng008
+    400036: Root
+    400038: stone001
+    400040: stone002
+    400042: stone003
+    400044: stone004
+    400046: stone005
+    400048: stone006
+    400050: stone007
+    400052: stone008
+    400054: stone009
+    400056: stone010
+    400058: stone011
+    400060: stone012
+    400062: stone013
+    400064: stone014
+    400066: stone015
+    400068: stone016
+    400070: stone017
+    400072: stone018
+    400074: weapon001
+    400076: Xiong001
+    400078: Pifeng005
+    400080: Bone017
+    400082: pifeng006
+    400084: Bone018
+    400086: Bone019
+    400088: Bone020
+    400090: Bone021
+    400092: Bone022
+    400094: Bone023
+    400096: Bone024
+    400098: Bone025
+    400100: Bone026
+    400102: Bone027
+    400104: Bone028
+    400106: Bone029
+    400108: Bone030
+    400110: Bone031
+    400112: Bone032
+    400114: Bone033
+    7400000: Idle
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

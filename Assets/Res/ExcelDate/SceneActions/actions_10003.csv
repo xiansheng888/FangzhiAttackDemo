@@ -1,0 +1,7 @@
+行为id,行为类型,是否头部行为 1开始副本即执行,下个行为,扩展参数1  结束条件 1&&3,扩展参数2  结束条件 2||4,扩展参数3,开战执行  选角完毕执行
+id,action_type,action_head,action_next,param1,param2,param3,battle_execute
+1,start,1,3|5,forget_002,,,
+2,time,,,10000,,,
+3,creat,,,entity_group_104,,,
+4,creat,,,entity_group_demonking1,,,1
+7,end,,,1|3,2|4,,
